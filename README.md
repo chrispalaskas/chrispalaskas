@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christos Palaskas, Software Developer Engineer in Test at Input Output (IOHK)
+- 👋 Hi, I’m Christos Palaskas, Software Engineer in Test Lead at Input Output (IOHK)
 - 🎱 I'm a Cardano Stake Pool Operator - Skepsis Pool - ASKP: www.skepsispool.com
 - 👀 I’m interested in blockchain technologies, the Cardano Ecosystem, Sidechains, Cloud computing, Machine Learning and Computer Vision.
 - 📖 I wrote a book on my experiences as a monk on Mt. Athos: https://7YearsOnMountAthos.com
